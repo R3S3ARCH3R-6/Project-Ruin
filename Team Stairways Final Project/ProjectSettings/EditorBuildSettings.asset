@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Menu Scenes/Start Screen 2.unity
+    guid: 23f9b53aec490c84e9eba08b5f44885e
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Floor One.unity
+    guid: c9aad734c6078f24c9976c7532ab0415
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Menu Scenes/Dead Screen 2.unity
+    guid: adfd3868f73648949ac3c2abf1916381
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Menu Scenes/Victory Scene 1.unity
+    guid: f09e01e62d4d6664b90e861f8a2f3e38
+  - enabled: 1
+    path: Assets/Scenes/Game Design/AI Build and Controls.unity
+    guid: 4f28ef9add953ca4199ec7eacf6a57c4
+  m_configObjects: {}
